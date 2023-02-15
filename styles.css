@@ -1,2 +1,16 @@
+.parent{
+   padding: 20px;
+   background-color: blue;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+  
 
-/* Your CSS Code here. */
+}
+.item {
+    padding: 30px;
+    margin: 2px;
+    background-color: orange ;
+}
+
